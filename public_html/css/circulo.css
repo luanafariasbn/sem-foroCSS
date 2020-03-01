@@ -19,7 +19,7 @@
     left: 100px;
     z-index: 3;
     margin: 5px 0px;
-Animation: piscarAmarelo 1s infinit;
+Animation: piscarAmarelo .1s linear infinit;
 }
 
 .circuloVermelho{
