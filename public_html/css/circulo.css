@@ -55,7 +55,7 @@ Animation: piscarAmarelo 1s infinit;
     left: 100px;
     z-index: 3
 }
-@kayframe piscarAmarelo hover {
+@kayframe piscarAmarelo{
 From { color: #00FFFF;
 }
 To { color: #BC8F8F;
