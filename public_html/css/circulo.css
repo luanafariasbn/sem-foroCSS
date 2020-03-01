@@ -19,7 +19,7 @@
     left: 100px;
     z-index: 3;
     margin: 5px 0px;
-Animation: piscarAmarelo .1s linear infinit;
+
 }
 
 .circuloVermelho{
@@ -55,11 +55,3 @@ Animation: piscarAmarelo .1s linear infinit;
     left: 100px;
     z-index: 3
 }
-@kayframe piscarAmarelo{
-From { color: #00FFFF;
-}
-To { color: #BC8F8F;
-}
-}
-
-
